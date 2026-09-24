@@ -48,6 +48,5 @@ student-study-planner/
 └── README.md
 ```
 
-## Author
-
- Richi
+## Video
+https://github.com/user-attachments/assets/d3131859-9616-4ac5-a9f3-d6ff0e0e03fb
